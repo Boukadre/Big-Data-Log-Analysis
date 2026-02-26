@@ -1,4 +1,4 @@
-# Analyseur de Logs "Big Data" (4.7M lignes) en Python/Pandas
+# Analyseur de Logs "Big Data" (4.7M lignes) 
 
 
 
